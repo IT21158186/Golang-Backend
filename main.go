@@ -9,7 +9,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-)
+) 
 
 // Book represents a book entity.
 type Book struct {
