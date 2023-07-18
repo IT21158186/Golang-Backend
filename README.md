@@ -4,6 +4,8 @@
 
 Developed by 'Go' language. 
 
-Aim of doing this project is to get A-Z idea about the language.
+Aim of doing this project is to get A-Z basic idea about the language.
 
 Postman API used for the backend testings.
+
+Full project by golang - with frontend stylings - is cooking...
